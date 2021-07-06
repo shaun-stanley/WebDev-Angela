@@ -2,3 +2,7 @@ img {
   background-color: #d83a56;
   border-radius: 20%;
 }
+
+img:hover {
+  background-color: yellow;
+}
