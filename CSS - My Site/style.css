@@ -8,3 +8,15 @@ body {
 h1 {
   margin: 0;
 }
+
+.middle {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.bottom {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
