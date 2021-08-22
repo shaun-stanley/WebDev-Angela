@@ -9,14 +9,21 @@ h1 {
   width: 200px;
   height: 200px;
   background-color: #cdf0ea;
+  position: absolute;
 }
 .middle {
   width: 200px;
   height: 200px;
   background-color: red;
+  position: absolute;
+  left: 200px;
+  top: 200px;
 }
 .bottom {
   width: 200px;
   height: 200px;
   background-color: blue;
+  position: absolute;
+  left: 400px;
+  top: 400px;
 }
