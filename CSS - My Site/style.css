@@ -13,9 +13,16 @@ body {
 h1 {
   margin: 0;
   font-size: 50px;
+  color: #66bfbf;
 }
 .paragraph {
   font-family: "DM Mono", monospace;
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #66bfbf;
+  font-weight: normal;
+  line-height: 2;
 }
 .pro {
   text-decoration: underline;
