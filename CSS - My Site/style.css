@@ -1,29 +1,22 @@
 body {
   margin: 0;
+  text-align: center;
 }
+
+.topCloud {
+  margin: 40px auto 40px auto;
+  position: relative;
+  left: 150px;
+}
+
 h1 {
   margin: 0;
 }
 
-.top {
-  width: 200px;
-  height: 200px;
-  background-color: #cdf0ea;
-  position: absolute;
+.pro {
+  text-decoration: underline;
 }
-.middle {
-  width: 200px;
-  height: 200px;
-  background-color: red;
+
+.bottomCloud {
   position: absolute;
-  left: 200px;
-  top: 200px;
-}
-.bottom {
-  width: 200px;
-  height: 200px;
-  background-color: blue;
-  position: absolute;
-  left: 400px;
-  top: 400px;
 }
